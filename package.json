@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://doggan@bitbucket.org/doggan/diablojs-server.git"
+    "url": "https://doggan@bitbucket.org/doggan/net-layer.git"
   },
   "bugs": {
-    "url": "https://github.com/doggan/tic-tac-toe-mmo/issues"
+    "url": "https://github.com/doggan/net-layer/issues"
   },
   "author": {
     "name": "Shyam Guthikonda",
