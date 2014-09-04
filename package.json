@@ -1,0 +1,34 @@
+{
+  "name": "net-layer",
+  "private": true,
+  "version": "0.0.0",
+  "description": "General networking layer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "network"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://doggan@bitbucket.org/doggan/diablojs-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doggan/tic-tac-toe-mmo/issues"
+  },
+  "author": {
+    "name": "Shyam Guthikonda",
+    "url": "http://shy.am"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.5.1",
+    "socket.io": "^1.0.6"
+  },
+  "jshintConfig": {
+    "node": true,
+    "unused": true
+  }
+}
