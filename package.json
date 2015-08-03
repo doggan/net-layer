@@ -2,18 +2,19 @@
   "name": "net-layer",
   "private": true,
   "version": "0.0.0",
-  "description": "General networking layer.",
+  "description": "A generic event router for socket.io.",
   "main": "lib/index.js",
   "scripts": {
     "start": "node ./lib/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "network"
+    "network",
+    "socket.io"
   ],
   "repository": {
     "type": "git",
-    "url": "https://doggan@bitbucket.org/doggan/net-layer.git"
+    "url": "https://github.com/doggan/net-layer.git"
   },
   "bugs": {
     "url": "https://github.com/doggan/net-layer/issues"
